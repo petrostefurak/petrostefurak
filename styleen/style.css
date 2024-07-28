@@ -1,0 +1,10 @@
+.apple{
+    display: inline-block;
+    padding: 8px 8px 3px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 40px 30px -50px black;
+}
+.apple img{
+    width: 200px;
+}
